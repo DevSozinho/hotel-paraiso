@@ -1,5 +1,5 @@
 # hotel-paraiso
-## Um simples site de um hotel com o nome "paraiso"... **SIMPLES**.
+## Um SIMPLES site de um hotel com o nome "paraiso"... **SIMPLES**.
 
 ### Preview
 
